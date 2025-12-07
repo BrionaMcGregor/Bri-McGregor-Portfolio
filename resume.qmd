@@ -6,5 +6,4 @@ editor:
     wrap: 72
 ---
 
-![](Bri_McGregor_Resume_DS.pdf){fig-align="center" width="60"
-height="12"}
+![](Bri_McGregor_Resume_DS.pdf){width="5526" height="500"}

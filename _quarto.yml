@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Briona McGregor - Data Science Portfolio"
+  title: "Bri McGregor - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/BrionaMcGregor/Bri-McGregor-Portfolio
